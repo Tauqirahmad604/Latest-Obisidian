@@ -8,6 +8,7 @@
 7. What is swap memory?
 8. What is `.bashrc` in Ubuntu?
 9. setfacl command in ubuntu?
+10. What is duggling images in docker?
 
 
 
