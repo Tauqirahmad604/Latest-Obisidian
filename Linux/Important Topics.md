@@ -9,6 +9,7 @@
 8. What is `.bashrc` in Ubuntu?
 9. setfacl command in ubuntu?
 10. What is duggling images in docker?
+11. What is unmask in linux?
 
 
 
