@@ -13,6 +13,7 @@
 12. What is a Pod Disruption Budget (PDB)?
 13. If you want two pods per node (instead of the one-per-node model that a DaemonSet enforces), a DaemonSet won’t work because it’s strictly 1 pod per node.
 14. what are challenges sheduling pods multi node, multi az setup
+15. How does kubernetes scheduler decide where to place pods
 
 
 
