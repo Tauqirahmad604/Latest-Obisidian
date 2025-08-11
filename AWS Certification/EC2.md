@@ -9,6 +9,7 @@
 8. Prometheus is a database. Prometheus is used as a **time-series database (TSDB)** specifically designed for **monitoring and observability**.
 9. I am running my ec2 with autoscaling group now I have new changes for my application how can I deploy them new changes?
 10. how would to trigger a github action cicd in repo A with changes in repo B
+11. What is SAST and DAST?
 
 
 ![[Pasted image 20241031180720.png]]
