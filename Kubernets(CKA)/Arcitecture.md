@@ -9,6 +9,10 @@
 8. EKS Pod Identity and IRSA
 9. Metrics Server
 10. kubeflow
+11. ho pv and pvc behave across zones in eks or general kubernetes?
+
+
+
 
 
 #### KeyCloak
