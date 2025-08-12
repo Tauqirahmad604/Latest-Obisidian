@@ -19,6 +19,9 @@
 18. what is pod topology in kubernetes?
 19. what is reclaim policy about pv and pvc?
 20. what is storageclass and tell me types of storage classes in eks?
+21. In Amazon EKS, if you set a node group with a minimum of 1 node and a maximum of 5 nodes, but you do not install Cluster Autoscaler or Karpenter, will your nodes scale automatically when demand increases? Why or why not?
+
+
 
 
 
