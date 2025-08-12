@@ -15,6 +15,7 @@
 14. what are challenges sheduling pods multi node, multi az setup
 15. How does kubernetes scheduler decide where to place pods
 16. what is kong api gateway?
+17. what are volume binding modes in kubernetes? and what is waitforfirstconsumer?
 
 
 
