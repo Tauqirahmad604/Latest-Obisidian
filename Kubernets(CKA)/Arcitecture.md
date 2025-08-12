@@ -18,6 +18,7 @@
 17. what are volume binding modes in kubernetes? and what is waitforfirstconsumer?
 18. what is pod topology in kubernetes?
 19. what is reclaim policy about pv and pvc?
+20. what is storageclass and tell me types of storage classes in eks?
 
 
 
