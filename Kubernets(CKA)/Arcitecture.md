@@ -81,3 +81,13 @@ Think of it like **SQLite for key-value data** — no server, no client, just a 
 
 
 
+ Important note:
+Network Policies only work if your CNI plugin supports them:
+
+Calico ✅
+
+Cilium ✅
+
+AWS VPC CNI ❌ (needs Calico add-on for NetworkPolicies)
+
+
