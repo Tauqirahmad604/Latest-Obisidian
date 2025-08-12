@@ -17,6 +17,7 @@
 16. what is kong api gateway?
 17. what are volume binding modes in kubernetes? and what is waitforfirstconsumer?
 18. what is pod topology in kubernetes?
+19. what is reclaim policy about pv and pvc?
 
 
 
