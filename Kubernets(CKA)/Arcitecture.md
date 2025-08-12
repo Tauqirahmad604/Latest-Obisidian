@@ -16,6 +16,7 @@
 15. How does kubernetes scheduler decide where to place pods
 16. what is kong api gateway?
 17. what are volume binding modes in kubernetes? and what is waitforfirstconsumer?
+18. what is pod topology in kubernetes?
 
 
 
