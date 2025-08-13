@@ -10,6 +10,7 @@
 9. I am running my ec2 with autoscaling group now I have new changes for my application how can I deploy them new changes?
 10. how would to trigger a github action cicd in repo A with changes in repo B
 11. What is SAST and DAST?
+12. what is diff bw quality profile and quality gate in sonarqube
 
 
 ![[Pasted image 20241031180720.png]]
