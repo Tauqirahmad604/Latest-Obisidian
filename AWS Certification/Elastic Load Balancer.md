@@ -10,6 +10,7 @@ Topics:
 8. Connection draining
 9. Load Balancer policies
 10. Conditions in the alb
+11. If I have 5 different websites running on 5 different ec2 instances and I want to run them on 5 different domains with single load balancer how can I achieve this? Also tell me if those 5 websites are running on single ec2 instance then how can I achieve this?
 
 
 ![[Pasted image 20241209161354.png]]
