@@ -26,6 +26,7 @@
 26. I want to store secrets in aws secret manager through terraform how can I achieve this?
 27. If I am going to create s3 bucket for remote state is it necessary to create it in public?(no make it private and allow only aws users to access it)
 28. I have created an infra with terraform and now don't want to continue with terraform any more. How to achieve this?
+29. what is terraform tfsec?
 
 
 
