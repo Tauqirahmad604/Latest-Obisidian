@@ -14,6 +14,7 @@
 13. What is bucket policy access point?
 14. How can we check transfer accelration speed of our s3.
 15. When I delete any version in s3 will it be deleted?
+16. As of 2024, what is the maximum size of a single object that Amazon S3 allows you to store?
 
 
 ![[Pasted image 20241213215044.png]]
