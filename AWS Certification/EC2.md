@@ -11,6 +11,7 @@
 10. how would to trigger a github action cicd in repo A with changes in repo B
 11. What is SAST and DAST?
 12. what is diff bw quality profile and quality gate in sonarqube
+13. When using Amazon EBS, what is the maximum size of a single volume?
 
 
 ![[Pasted image 20241031180720.png]]
