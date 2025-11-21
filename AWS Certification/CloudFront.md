@@ -2,6 +2,7 @@
 1. CloudFront Geo Restriction
 2. CloudFront Invalidation
 3. How to make ec2 only access with cloudfront?
+4. In which order does CloudFront search for an object in its cache and origin? 
 
 
 ![[Pasted image 20241217001548.png]]
