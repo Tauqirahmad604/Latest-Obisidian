@@ -1,4 +1,4 @@
-
+1. what are pause containers?
 1. KeyCloak
 2. Velero
 3. When you run kubectl apply command what happens in the background?
