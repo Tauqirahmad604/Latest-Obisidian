@@ -12,6 +12,7 @@
 11. What is SAST and DAST?
 12. what is diff bw quality profile and quality gate in sonarqube
 13. When using Amazon EBS, what is the maximum size of a single volume?
+14. my pem file for my ec2 got compromised every time what should I do now? I do not want to go with password as well.
 
 
 ![[Pasted image 20241031180720.png]]
