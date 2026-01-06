@@ -11,6 +11,8 @@
 10. What is duggling images in docker?
 11. What is unmask in linux?
 12. Diff bw a process and a threat?
+13. What are sticky bit permissions in linux?
+14. What is location of kernel in ubuntu?
 
 
 
