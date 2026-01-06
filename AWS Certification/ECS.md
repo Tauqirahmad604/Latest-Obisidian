@@ -7,6 +7,12 @@
 7. Fargate tasks **use `awsvpc` network mode by default**, so each task gets its **own ENI and private IP**.
 8. EC2 use bridge network by default
 9. Diff bw service atuoscaling and cluster autoscaling
+10. You need to run a stateful application on ECS EC2 where?Data must persist if the task restarts?How would you design this using ECS?
+
+Tasks should move to another instance if the current one dies
+
+Question:
+👉 How would you design this using ECS?
 
 
 - **Task**: A running instance of a containerized application in AWS ECS.
