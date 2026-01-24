@@ -8,6 +8,7 @@
 8. EC2 use bridge network by default
 9. Diff bw service atuoscaling and cluster autoscaling
 10. You need to run a stateful application on ECS EC2 where?Data must persist if the task restarts?How would you design this using ECS?
+11. How inbound and outbound traffic works in private ecs?
 
 Tasks should move to another instance if the current one dies
 
