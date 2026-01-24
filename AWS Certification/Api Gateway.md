@@ -1,5 +1,6 @@
 1. What is payload transformation in api gateway?
 2. What are resource policies in api gateway?
+3. What are api gateway limitations?
 
 #### API Gateway is a managed AWS service that provides a secure, scalable front door to expose and manage your APIs by routing client requests to backend services like Lambda or HTTP servers.
 
