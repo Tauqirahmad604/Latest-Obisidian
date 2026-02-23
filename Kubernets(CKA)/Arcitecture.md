@@ -28,6 +28,7 @@ I am running a database pod that uses an EBS-backed PersistentVolume created in 
 If the pod restarts and Kubernetes schedules it on a node in AZ-2, how will Kubernetes handle the PersistentVolume attachment?
 Since EBS volumes are AZ-specific, will the pod be able to use a different EBS volume in AZ-2 automatically?
 If not, what is the correct design to ensure proper scheduling and storage behavior for stateful workloads in a multi-AZ EKS cluster?
+What is maxSurge and maxUnavailable in rolling update strategy in kubenetes to minimize downtime?
 
 
 
